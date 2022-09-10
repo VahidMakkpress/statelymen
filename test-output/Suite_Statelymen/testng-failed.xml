@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite_Statelymen]" guice-stage="DEVELOPMENT">
+  <test name="Statelymen_Test_Suite(failed)">
+    <classes>
+      <class name="com.testcases.Quiz_Statelymen_Test">
+        <methods>
+          <include name="Quiz_Test"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.testcases.Quiz_Statelymen_Test -->
+    </classes>
+  </test> <!-- Statelymen_Test_Suite(failed) -->
+</suite> <!-- Failed suite [Suite_Statelymen] -->
